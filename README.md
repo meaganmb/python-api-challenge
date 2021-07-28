@@ -15,9 +15,15 @@ This is week 6 homework at UCI Data Analytics Bootcamp
 #### Northern Hemisphere; Latitude vs Max Temp
 ![Image](https://github.com/meaganmb/python-api-challenge/blob/main/output_data/Northern_Lat_vs_MaxTemp.png)
 
-#### Southern Hemisphere; Latitude vs Cloudiness
+#### Southern Hemisphere; Latitude vs Max Temp
 ![Image](https://github.com/meaganmb/python-api-challenge/blob/main/output_data/Southern_Lat_vs_MaxTemp.png)
 
+* There was no correlation between latitude and humidity in the Northern Hemisphere or in the Southern Hemisphere
 
+#### Northern Hemisphere; Latitude vs Humidity
+![Image](https://github.com/meaganmb/python-api-challenge/blob/main/output_data/Northern_Lat_vs_Humidity.png)
+
+#### Southern Hemisphere; Latitude vs Humidity
+![Image](https://github.com/meaganmb/python-api-challenge/blob/main/output_data/Southern_Lat_vs_Humidity.png)
 #### Screenshot of Heat map with marker
 ![heat_map_with_marker](https://github.com/meaganmb/python-api-challenge/blob/main/heat_mat_with_marker.png)
