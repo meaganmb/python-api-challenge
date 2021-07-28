@@ -17,3 +17,7 @@ This is week 6 homework at UCI Data Analytics Bootcamp
 
 #### Southern Hemisphere; Latitude vs Cloudiness
 ![Image](https://github.com/meaganmb/python-api-challenge/blob/main/output_data/Southern_Lat_vs_MaxTemp.png)
+
+
+#### Screenshot of Heat map with marker
+![heat_map_with_marker](https://github.com/meaganmb/python-api-challenge/blob/main/heat_mat_with_marker.png)
