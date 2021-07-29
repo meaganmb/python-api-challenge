@@ -1,6 +1,8 @@
 # python-api-challenge
 This is week 6 homework at UCI Data Analytics Bootcamp
 
+Note: in api_keys.py file, I removed my api keys in the file
+
 ## Data Analysis
 
 * There was very weak correlation between latitude and cloudiness in the Northern Hemisphere and the Southern Hemisphere. This is because the r values for these graphs are very close to zero. Hence, illustrating there is no correlation. The data shows the southern hemisphere tends to be warmer this time of the year than the northern hemisphere. This could be due to the tilt of the earth at the time of the year the data was gathered.
